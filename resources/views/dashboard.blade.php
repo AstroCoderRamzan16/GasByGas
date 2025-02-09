@@ -1,0 +1,458 @@
+<x-app-layout>
+    
+
+    <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
+                <div class="p-6 text-gray-1000">
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <link rel="shortcut icon" href="images/fav.png" type="image/x-icon">
+
+  <title>
+   Gas By Gas
+  </title>
+
+  <!-- slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <nav class="navbar navbar-expand-lg custom_nav-container ">
+        <a class="navbar-brand" href="index.html">
+          <span>
+             Welcome To Gas By Gas 
+          </span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class=""></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav  ">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="shop.html">
+                Price List
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="why.html">
+                Why Us
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="testimonial.html">
+                Testimonial
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact Us</a>
+            </li>
+          </ul>
+          <div class="user_option">
+        
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- end header section -->
+    <!-- slider section -->
+
+    <section class="slider_section">
+      <div class="slider_container">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-7">
+                    <div class="detail-box"> 
+                      <h1>
+                        Welcome To Our <br>
+                        Gas By Gas
+                      </h1>
+                      <p>
+                        Nothing is worse than a person who fills his stomach. It should be enough for the son of Adam to have a few bites to satisfy his hunger.
+                      </p>
+                      <a href="contact.html">
+                        Contact Us
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-5 ">
+                    <div class="img-box">
+                      <img style="width:600px" src="images/gbg.png" alt="" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+          
+        </div>
+      </div>
+    </section>
+
+    <!-- end slider section -->
+  </div>
+  <!-- end hero area -->
+
+  <!-- shop section -->
+
+  <section class="shop_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Price List
+        </h2>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="box">
+            <a href="">
+              <div class="img-box">
+                <img src="images/p1.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h6>
+                   Gas
+                </h6>
+                <h6>
+                  Price
+                  <span>
+                      800/=
+                  </span>
+                </h6>
+              </div>
+              <div class="new">
+                <span>
+                  2.5KG
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="box">
+            <a href="">
+              <div class="img-box">
+                <img src="images/p2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h6>
+                  Gas
+                </h6>
+                <h6>
+                  Price
+                  <span>
+                    1300/=
+                  </span>
+                </h6>
+              </div>
+              <div class="new">
+                <span>
+                    5KG
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="box">
+            <a href="">
+              <div class="img-box">
+                <img src="images/p3.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h6>
+                  Gas
+                </h6>
+                <h6>
+                  Price
+                  <span>
+                    2000/=
+                  </span>
+                </h6>
+              </div>
+              <div class="new">
+                <span>
+                  9KG
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="box">
+            <a href="">
+              <div class="img-box">
+                <img src="images/p4.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h6>
+                  Gas
+                </h6>
+                <h6>
+                  Price
+                  <span>
+                    3500/=
+                  </span>
+                </h6>
+              </div>
+              <div class="new">
+                <span>
+                  12.5KG
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="box">
+            <a href="">
+              <div class="img-box">
+                <img src="images/p5.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h6>
+                  Gas
+                </h6>
+                <h6>
+                  Price
+                  <span>
+                    4500/=
+                  </span>
+                </h6>
+              </div>
+              <div class="new">
+                <span>
+                  15KG
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 col-lg-3">
+          <div class="box">
+            <a href="">
+              <div class="img-box">
+                <img src="images/p6.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h6>
+                  Gas
+                </h6>
+                <h6>
+                  Price
+                  <span>
+                    17000/=                  </span>
+                </h6>
+              </div>
+              <div class="new">
+                <span>
+                 35kG
+                </span>
+              </div>
+            </a>
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <!-- end shop section -->
+
+
+
+
+
+
+
+  <!-- contact section -->
+
+  <section class="contact_section ">
+    <div class="container px-0">
+      <div class="heading_container ">
+        <h2 class="">
+          Contact Us
+        </h2>
+      </div>
+    </div>
+    <div class="container container-bg">
+      <div class="row">
+        <div class="col-lg-7 col-md-6 px-0">
+          <div class="map_container">
+            <div class="map-responsive">
+              <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Eiffel+Tower+Paris+France" width="600" height="300" frameborder="0" style="border:0; width: 100%; height:100%" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-5 px-0">
+          <form action="#">
+            <div>
+              <input type="text" placeholder="Name" />
+            </div>
+            <div>
+              <input type="email" placeholder="Email" />
+            </div>
+            <div>
+              <input type="text" placeholder="Phone" />
+            </div>
+            <div>
+              <input type="text" class="message-box" placeholder="Message" />
+            </div>
+            <div class="d-flex ">
+              <button>
+                SEND
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <br><br><br>
+
+  <!-- end contact section -->
+
+   
+
+  <!-- info section -->
+
+  <section class="info_section  layout_padding2-top">
+    <div class="social_container">
+      <div class="social_box">
+        <a href="">
+          <i class="fa fa-facebook" aria-hidden="true"></i>
+        </a>
+        <a href="">
+          <i class="fa fa-twitter" aria-hidden="true"></i>
+        </a>
+        <a href="">
+          <i class="fa fa-instagram" aria-hidden="true"></i>
+        </a>
+        <a href="">
+          <i class="fa fa-youtube" aria-hidden="true"></i>
+        </a>
+      </div>
+    </div>
+    <div class="info_container ">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-lg-3">
+            <h6>
+              ABOUT US
+            </h6>
+            <p>
+              Gas by Gas, a prominent participant in Sri Lanka's energy sector, is the nation's biggest importer and distributor of LPG, controlling the bulk of the household, commercial, and industrial LPG sectors. The company's main goal as a state-owned enterprise is to make inexpensive, clean energy more accessible.
+            </p>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="info_form ">
+              <h5>
+                Newsletter
+              </h5>
+              <form action="#">
+                <input type="email" placeholder="Enter your email">
+                <button>
+                  Subscribe
+                </button>
+              </form>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <h6>
+              NEED HELP
+            </h6>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet, consectetur adipiscing elit, sed doLorem ipsum dolor sit amet,
+            </p>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <h6>
+              CONTACT US
+            </h6>
+            <div class="info_link-box">
+              <a href="">
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <span>Colombo Srilanka</span>
+              </a>
+              <a href="">
+                <i class="fa fa-phone" aria-hidden="true"></i>
+                <span>0722155067</span>
+              </a>
+              <a href="">
+                <i class="fa fa-envelope" aria-hidden="true"></i>
+                <span> itisramzan777@gmail.com</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- footer section -->
+    <footer class=" footer_section">
+      <div class="container">
+        <p>
+          &copy; <span id="displayYear"></span> Powered By
+          <a href="https://html.design/">Web Boys</a>
+        </p>
+      </div>
+    </footer>
+    <!-- footer section -->
+
+  </section>
+
+  <!-- end info section -->
+
+
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js">
+  </script>
+  <script src="js/custom.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</x-app-layout>
+
+
